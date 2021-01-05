@@ -1,2 +1,3 @@
-<?="Teste";
+<?php phpinfo(); ?>
+<?="Teste";?>
 
